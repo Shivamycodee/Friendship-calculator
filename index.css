@@ -1,0 +1,50 @@
+body {
+  text-align: center;
+  background: rgb(160, 196, 219);
+}
+
+.container {
+  border-radius: 30px;
+  background: orangered;
+  margin: 7% auto 0;
+  width: 50%;
+}
+
+#header {
+  color: white;
+  font-family: "montsarrat", sans-serif;
+  font-weight: 700;
+  font-size: 4rem;
+  padding: 2% 5% 0;
+}
+
+.card-heading {
+  color: white;
+  font-family: "Ubuntu", sans-serif;
+  padding: 20px 0 30px;
+}
+
+input {
+  width: 25%;
+  padding: 10px;
+  border: none;
+  border-radius: 20px;
+  margin: 2% 3%;
+}
+
+button {
+  margin: 5% 0;
+  width: 30%;
+  height: 40px;
+  border-radius: 20px;
+  background: rgb(160, 196, 219);
+  color: white;
+}
+
+#friendship-advice {
+  color: white;
+  background: orangered;
+  height: 60px;
+  margin: 4% 20% 0;
+  padding-top: 50px 40px 0;
+}
